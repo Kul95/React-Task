@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  background-color: aqua;
+}
+.user{
+  background-color: greenyellow;
+  border: 3px solid black;
+  background: url(img6.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color:white;
+}
+
+.main{
+  background-color: greenyellow;
+  border: 3px solid black;
+  color:white;
+  background: url(img4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+   
+}
+.unorder{
+  padding: 20px;
+  width:60px;
+
+}
+li{
+  color: red;
+  display: inline;
+  padding: 50px;
+  font-size: x-large;
+  font-weight: 300;
+}
+li:hover{
+  padding: 2px;
+  margin: 3px;
+  color: green;
+}
+.foot{
+  background-color:black;
+  color:crimson;
+}
+.foot1{
+  padding:70px;
+  margin:50px;
+}
+
+
